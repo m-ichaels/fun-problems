@@ -1,9 +1,7 @@
 #include <iostream>
 #include <vector>
-#include <cmath>
 #include <thread>
 #include <chrono>
-#include <algorithm>
 #include <mutex>
 
 using namespace std;
