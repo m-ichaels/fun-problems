@@ -1,6 +1,4 @@
-# README
-
-## Overview
+# Overview
 This code is a simple demonstration of my familiarity with the **C++ programming language**, including syntax, threading, mutex usage, and basic operations with data structures. It is **not intended for any practical use** such as stock trading, financial modeling, or performance optimization. Instead, it serves solely as an educational example showcasing my ability to:
 
 - Use multithreading to simulate concurrent operations.
